@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "219330565947",
+    "project_id": "rayhanecommerce-febbb",
+    "storage_bucket": "rayhanecommerce-febbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219330565947:android:1c266ec19293dc947f891e",
+        "android_client_info": {
+          "package_name": "com.example.rayhanecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219330565947-c2085tmdq2fc0edtd753u6j8h0ooiq98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rayhanecommerce",
+            "certificate_hash": "8366e8ab80ba0fe5eb5f0c9260cf8204f2703627"
+          }
+        },
+        {
+          "client_id": "219330565947-jc8q1lcqkr3tibeprmres7amrcm9ok01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqd8eTrnhRndOoSxreUjyISOIR-oKtkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219330565947-jc8q1lcqkr3tibeprmres7amrcm9ok01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
